@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165127079956",
+    "project_id": "gurman-354cb",
+    "storage_bucket": "gurman-354cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165127079956:android:bb19b22a5e3da5460cff01",
+        "android_client_info": {
+          "package_name": "com.vukasin.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165127079956-n86ij983mbb7n2vho8coirdmte9nekt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEu02n3cJKGUykR1EAaRK8wuV6xFYEq7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165127079956-n86ij983mbb7n2vho8coirdmte9nekt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
